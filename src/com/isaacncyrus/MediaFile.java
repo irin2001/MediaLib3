@@ -5,13 +5,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.BufferedWriter;
 
-/**
- * Convenience class for getting input from the mymedia.txt file
- * 
- * @author ckinnard
- * @version 3/5/16
- */
-public class MediaFile  
+
+public class MediaFile
 {
     private static final String DATA_FILE = "mymedia.txt";
     
